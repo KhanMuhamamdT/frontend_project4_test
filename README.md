@@ -1,6 +1,6 @@
 # Garage Sales | Frontend
-Web application will store , display the garage items.Intend of this application is to give the visbility 
-to the area about the garage sale
+Web application will store , display the garage items.web  application will provide the  visbility 
+of the garage sales even in the neighbourhood.
 
 Built with React and Material UI 
 Link - https://material-ui.com/
@@ -23,16 +23,14 @@ Wireframe URL: https://xd.adobe.com/view/1fc0e38e-b6e7-4f8d-6d39-4ff96fc3d01e-69
   - Support
   - Brand logo/ mission/ vision
 
-
-
 ## Schedule
 
-Monday - Approval
-Tuesday - Backend , Collections
-Wednesday - Postman Testing 
-Thursday - Frontend Create profile
-Friday - Landing Page 
-Saturday - Event and Items page
-Sunday - Event and Items page
-Monday - Event List
-Tuesday - Deployment 
+ - Monday - Approval
+ - Tuesday - Backend , Collections
+ - Wednesday - Postman Testing 
+ - Thursday - Frontend Create profile
+ - Friday - Landing Page 
+ - Saturday - Event and Items page
+ - Sunday - Event and Items page
+ - Monday - Event List
+ - Tuesday - Deployment 
